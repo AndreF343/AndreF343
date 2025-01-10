@@ -1,12 +1,12 @@
 ## Hello 👋👨🏾‍💻 I'm Andre
 
-Canadian data specialist with 5+ years of experience in software development, data engineering and data science.
+Canadian data specialist with  years of experience in software development, data engineering and data science.
 
 Graduated from Queen's University in 2018.
 
 Worked for FPT Software for 4 years where I transitioned from software development to more data-focused roles.
 
-Looking for remote work opportunities in data for 2025.
+Looking for remote/hybrid work opportunities in data for 2025.
 
 Completed 2 personal projects towards the end of 2024, and working on a third in 2025!
 
