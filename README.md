@@ -8,7 +8,7 @@ Worked for FPT Software for 4 years where I transitioned from software developme
 
 Looking for remote/hybrid work opportunities in data for 2025.
 
-Completed 2 personal projects towards the end of 2024, a third in 2025, and working on more!
+Completed 2 personal projects towards the end of 2024, and have started 2 more in 2025!
 
 [`JRE-Reddit-Comments`](https://github.com/AndreF343/JRE-Reddit-Comments) [`Strike-Detection-ML`](https://github.com/AndreF343/Strike_Detection_ML) [`AI-Content-Creation-Agency`](https://github.com/AndreF343/AI-content-creation-agency)
 
