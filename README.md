@@ -1,6 +1,6 @@
 ## Hello 👋👨🏾‍💻 I'm Andre
 
-Canadian data specialist with  years of experience in software development, data engineering and data science.
+Canadian data specialist with 6 years of experience in software development, data engineering and data science.
 
 Graduated from Queen's University in 2018.
 
